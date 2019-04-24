@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Test</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="save">Save</string>
+    <string name="submit">SUBMIT</string>
+    <string name="empty"></string>
+    <string name="result"></string>
+    <string name="title">QUIZ</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="age">AGE</string>
+    <string name="nickname">Nick Name</string>
+    <string name="lastkname">Last Name</string>
+    <string name="firstname">First Name</string>
+
+
+</resources>
